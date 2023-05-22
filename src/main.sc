@@ -19,4 +19,8 @@ theme: /
         a: 19000 руб
         
     state: NoMatch
-        a: соре
+        event!: noMatch
+        random:
+            a: I don't understand you
+            a: What do you mean?
+            a: I don't get you
