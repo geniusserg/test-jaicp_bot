@@ -11,7 +11,7 @@ theme: /
         a: привет!
         
     state: weather
-        q!: * погод* *
+        q!: * (погод*/дожд*/сне*/вет*) *
         a: холодно
     
     state: currency
